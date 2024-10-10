@@ -20,6 +20,4 @@ matplotlib==3.6.2
 #    .\env\Scripts\activate (for Windows)
 # 4. Install the dependencies:
 #    pip install -r requirements.txt
-# 5. Run the Python scripts using:
-#    python <script_name>.py
 
