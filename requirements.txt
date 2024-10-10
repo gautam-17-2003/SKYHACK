@@ -1,0 +1,25 @@
+
+# Python dependencies for the Call Center Optimization Project
+
+pandas==1.5.3
+scikit-learn==1.2.2
+numpy==1.23.5
+nltk==3.8.1
+matplotlib==3.6.2
+
+# You can install all the required packages using:
+# pip install -r requirements.txt
+
+# To run the project:
+
+# 1. Clone the repository or download the project files.
+# 2. Ensure you have Python 3.x installed.
+# 3. Create a virtual environment (optional but recommended):
+#    python -m venv env
+#    source env/bin/activate (for Linux/Mac)
+#    .\env\Scripts\activate (for Windows)
+# 4. Install the dependencies:
+#    pip install -r requirements.txt
+# 5. Run the Python scripts using:
+#    python <script_name>.py
+
