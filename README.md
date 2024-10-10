@@ -31,6 +31,9 @@ source env/bin/activate #(for Linux/Mac)
 ```
 pip install -r requirements.txt
 ```
+5. Run the .ipynb file according to the problem statement which you want to solve
+
+
 ## Objectives
 
 1. **AHT and AST Reduction**: 
