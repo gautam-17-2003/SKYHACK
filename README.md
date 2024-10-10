@@ -15,6 +15,22 @@ Call centers are a vital part of customer service for United Airlines. However, 
 - Analyze existing call center data to identify drivers of long AHT and AST.
 - Suggest strategies to reduce call resolution times and enhance customer satisfaction.
 
+## To run the project:
+
+1. Clone the repository or download the project files.
+2. Ensure you have Python 3.x installed.
+3. Create a virtual environment (optional but recommended):
+```
+python -m venv env
+```
+```
+source env/bin/activate #(for Linux/Mac)
+.\env\Scripts\activate #(for Windows)
+```
+4. Install the dependencies:
+```
+pip install -r requirements.txt
+```
 ## Objectives
 
 1. **AHT and AST Reduction**: 
